@@ -181,7 +181,27 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-3 col-3 mt-3">
+                    <div class="col-lg-3 col-12 mt-4">
+                        <div class="card shadow rounded border-0 overflow-hidden">
+                            <img src="assets/images/blog/01.jpg" class="img-fluid" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title">music </h5>
+                                <p class="text-muted">sambil nunggu putra putrinya silahkan nikmati music dulu</p>
+                                <div class="btn-group dropdown-primary me-2 mt-2">
+                                    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        yuk dengerin
+                                    </button>
+                                    <div class="dropdown-menu">
+                                        <a href="https://www.youtube.com/results?search_query=indonesia+playlist+song" class="dropdown-item">Indonesia</a>
+                                        <a href="javascript:void(0)" class="dropdown-item">Barat</a>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+
+                    <div class="col-lg-3 col-12 mt-4">
                         <div class="card shadow rounded border-0 overflow-hidden">
                             <img src="assets/images/blog/01.jpg" class="img-fluid" alt="">
                             <div class="card-body">
@@ -192,7 +212,7 @@
                         </div>
                     </div><!--end col-->
 
-                    <div class="col-lg-3 col-3 mt-3">
+                    <div class="col-lg-3 col-12 mt-4">
                         <div class="card shadow rounded border-0 overflow-hidden">
                             <img src="assets/images/blog/01.jpg" class="img-fluid" alt="">
                             <div class="card-body">
@@ -203,18 +223,7 @@
                         </div>
                     </div><!--end col-->
 
-                    <div class="col-lg-3 col-3 mt-3">
-                        <div class="card shadow rounded border-0 overflow-hidden">
-                            <img src="assets/images/blog/01.jpg" class="img-fluid" alt="">
-                            <div class="card-body">
-                                <h5 class="card-title">Saas & Software : Landrick</h5>
-                                <p class="text-muted">Due to its widespread use as filler text for layouts, non-readability is of great importance</p>
-                                <a href="javascript:void(0)" class="text-primary">Read More <i class="uil uil-angle-right-b align-middle"></i></a>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-
-                    <div class="col-lg-3 col-3 mt-3">
+                    <div class="col-lg-3 col-12 mt-4">
                         <div class="card shadow rounded border-0 overflow-hidden">
                             <img src="assets/images/blog/01.jpg" class="img-fluid" alt="">
                             <div class="card-body">
